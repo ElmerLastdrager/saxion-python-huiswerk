@@ -1,4 +1,5 @@
 Bij vragen: Elmer Lastdrager <ext0040361@saxion.nl>.
+Dit e-mail adres werkt slechts tot 19 maart 2019.
 
 ---
 
