@@ -1,4 +1,4 @@
-Bij vragen: Elmer Lastdrager <ext0040361@saxion.nl>
+Uitwerkingen
 ---
 
 (Voorbeeld)antwoorden kun je vinden op [de antwoordpagina](uitwerkingen.html) en uitleg over de theorie kun je vinden op de [uitlegpagina](index.html).

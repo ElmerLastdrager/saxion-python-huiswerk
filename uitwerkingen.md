@@ -1,4 +1,4 @@
-Bij vragen: Elmer Lastdrager <ext0040361@saxion.nl>
+Uitwerkingen
 ---
 
 Deze uitwerkingen zijn slechts voorbeelden van hoe het kan.
