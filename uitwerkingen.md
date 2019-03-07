@@ -147,5 +147,5 @@ else:
             perpersoon = flesjes // aantal
             print("Per persoon hebben ze", perpersoon, "flesjes bier gekocht")
             blijftover = flesjes - aantal * perpersoon
-            print("Als iedereen evenveel drink, blijven er", blijftover, "flesjes bier over")
+            print("Als iedereen evenveel drinkt, blijven er", blijftover, "flesjes bier over")
 ~~~
