@@ -28,7 +28,7 @@ Deze opgave is groter: je bent manager van een supermarkt.
 Soms komen mensen met een groep bij de kassa om alcoholische dranken te kopen.
 Dit mag alleen als de koper meerderjarig is.
 Als mensen met een groep bij de kassa komen, moet van iedereen de leeftijd gecontroleerd worden.
-Dit is lastig en kost, dus moet je een computerprogramma schrijven om dit te doen.
+Dit is lastig en kost tijd, dus maak je een computerprogramma om dit te doen.
 
 ### Deel A: controle
 1. Je programma vraagt aan de kassamedewerker hoeveel mensen in de groep zitten.
