@@ -18,7 +18,7 @@ Voordat je naar het antwoord kijkt, test je programma met een willekeurige naam 
 
 ## Opgave 2
 1. Vraag de gebruiker om 10 getallen tussen de 0 en 100 (0 en 100 zelf mogen ook). Zet de getallen in een lijst, als getal.
-1. Als de gebruiker een getal invoerd dat kleiner is dan 0, of groter dan 100, dan geeft het programma een foutmelding.
+1. Als de gebruiker een getal invoert dat kleiner is dan 0, of groter dan 100, dan geeft het programma een foutmelding.
 1. Er moeten altijd 10 getallen in de lijst staan, zelfs als de gebruiker foute invoer heeft gegeven.
 1. Zet de lijst op het scherm, ter controle.
 1. Bereken het gemiddelde van de lijst. Print het gemiddelde van de lijst.
