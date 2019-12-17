@@ -1,14 +1,10 @@
 Python uitleg
 ---
 
-Bij vragen: Elmer Lastdrager <ext0040361@saxion.nl>.
-Dit e-mail adres werkt slechts tot 19 maart 2019.
-
-
 # Algemeen
 
 Allereerst wat korte uitleg.
-Dit heb ik in de les ook gegeven, maar het kan nooit kwaad om het even te herhalen voor de herkansing.
+Dit is in de les ook gegeven, maar het kan nooit kwaad om het even te herhalen.
 
 ## Installatie Python
 Om Python te installeren, kun je [de video bekijken](https://www.youtube.com/watch?v=ECQkLl9UWSA).
