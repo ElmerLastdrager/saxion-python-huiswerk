@@ -46,7 +46,7 @@ Voorbeelden:
 # Zet de tekst op het scherm. 
 print("Ik kan programmeren!")
 
-# Je kunt ook meerdere argumenten meegeve, gescheiden door een komma.
+# Je kunt ook meerdere argumenten meegeven, gescheiden door een komma.
 print("Dit", "werkt", "ook")
 print("Ik heb", 2, "dagen weekend")
 
